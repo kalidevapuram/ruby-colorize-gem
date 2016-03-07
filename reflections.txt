@@ -1,0 +1,14 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+Meta programming gives the ability to reopen a inbuilt class or module and modify the objects default behavior which makes an advantage to create ruby gem. Use of meta programming while creating gem reduces the code repetition. 
+
+
+How long did you spend working on this project?
+I spent almost 5 to 6 hours to get the project successfully complete.
+
+
+What was the most rewarding challenge you conquered?
+The main challenging part while creating a colorizr gem is, how to print the calling object in a method. Which it took a lot of time to complete. Without any base coding for the project it takes more time to understand the project.
+
+
+Where do you still have room to grow?
+I still have to learn some meta programming concepts, and have to do some more projects on meta programming to understand clearly. 
